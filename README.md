@@ -56,6 +56,7 @@ The following MCC configurations must be made for this project:
 	
 - Interrupt Manager
 	1. Enable global interrupts
+	
 <br><img src="images/interrupts.png" width="500">
 
 ## Demo Code 
